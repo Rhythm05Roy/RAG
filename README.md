@@ -22,8 +22,8 @@ This project demonstrates a conversational interface that enables users to inter
 ## Installation
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   https://github.com/Rhythm05Roy/RAG.git
+   cd RAG
    ```
 
 2. **Create a Virtual Environment:**
